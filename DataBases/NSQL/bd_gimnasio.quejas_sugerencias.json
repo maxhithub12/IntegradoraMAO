@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "66108e6bd71faa5ae8ba24d9"
+  },
+  "ID": 1,
+  "fecha": {
+    "$date": "2024-04-05T23:51:07.096Z"
+  },
+  "descripcion": "Esta es una queja o sugerencia.",
+  "estatus": "Pendiente",
+  "tipo": "Queja",
+  "persona_id": 1
+}]
