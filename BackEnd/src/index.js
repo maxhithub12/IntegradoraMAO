@@ -29,3 +29,17 @@ app.get("/usuarios", async (req, res) => {
 });
 
 
+// Rutas conexion MONGODB
+app.get("/seguimiento_queja", async (req, res) => {
+    try {
+        // Conexión a la base de datos MongoDB
+        const client = new MongoClient("mongodb://localhost:27017", { useNewUrlParser: true, useUnifiedTopology: true });
+        await client.connect();
+        
+        
+    } 
+    catch (error) {
+        console.error("Error al consultar la base de datos:", error);
+        res.status(500).send("Error interno del servidor");
+    }
+});
