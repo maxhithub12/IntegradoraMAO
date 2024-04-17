@@ -14,7 +14,8 @@ swaggerSetup(app); // Integra Swagger en tu aplicación
 //Middlewares
 app.use(morgan("dev"))
 
-console.log("escuchando al puerto "+app.get("port"));
+console.log("Escuchando al puerto "+app.get("port"));
+console.log("http://localhost:4000/api-docs");
 
 //Rutas
 /**
