@@ -1,6 +1,8 @@
 const express = require("express");
 const morgan = require("morgan");
 const database= require("./database");
+const { MongoClient } = require("mongodb");
+
 
 //Config inicial
 const app = express();
@@ -25,3 +27,5 @@ app.get("/usuarios", async (req, res) => {
         res.status(500).send("Error interno del servidor");
     }
 });
+
+
