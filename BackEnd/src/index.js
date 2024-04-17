@@ -1,6 +1,7 @@
 const express = require("express");
 const morgan = require("morgan");
 const database= require("./database");
+const swaggerSetup = require("./swagger");
 const { MongoClient } = require("mongodb");
 
 
@@ -8,7 +9,7 @@ const { MongoClient } = require("mongodb");
 const app = express();
 app.set("port",4000);
 app.listen(app.get("port"));
-
+swaggerSetup(app); // Integra Swagger en tu aplicación
 
 //Middlewares
 app.use(morgan("dev"))
@@ -16,6 +17,36 @@ app.use(morgan("dev"))
 console.log("escuchando al puerto "+app.get("port"));
 
 //Rutas
+/**
+ * @swagger
+ * /usuarios:
+ *   get:
+ *     summary: Obtiene todos los usuarios
+ *     responses:
+ *       '200':
+ *         description: Respuesta exitosa
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: array
+ *               items:
+ *                 type: object
+ *                 properties:
+ *                   Persona_ID:
+ *                     type: integer
+ *                   Nombre_Usuario:
+ *                     type: string
+ *                   Password:
+ *                     type: string
+ *                   Tipo:
+ *                     type: string 
+ *                   Estatus_Conexion:
+ *                      type: string
+ *                   Ultima_Conexion:
+ *                      type: string
+ *                      format: date-time
+ *                   
+ */
 app.get("/usuarios", async (req, res) => {
     try {
         const connection = await database.getConnection();
@@ -28,8 +59,58 @@ app.get("/usuarios", async (req, res) => {
     }
 });
 
-
 // Rutas conexion MONGODB
+/**
+ * @swagger
+ * /seguimiento_queja:
+ *   get:
+ *     summary: Obtiene seguimiento de quejas
+ *     responses:
+ *       '200':
+ *         description: Respuesta exitosa
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: array
+ *               items:
+ *                 type: object
+ *                 properties:
+ *                   _id:
+ *                     type: string
+ *                   queja_id:
+ *                     type: string
+ *                   fecha:
+ *                     type: string
+ *                     format: date-time
+ *                   usuario:
+ *                     type: object
+ *                     properties:
+ *                       nombre:
+ *                         type: string
+ *                       email:
+ *                         type: string
+ *                         format: email
+ *                   empleado:
+ *                     type: object
+ *                     properties:
+ *                       nombre:
+ *                         type: string
+ *                       email:
+ *                         type: string
+ *                         format: email
+ *                   descripcion:
+ *                     type: string
+ *                   estatus:
+ *                     type: string
+ *                   tipo:
+ *                     type: string
+ *                   createdAt:
+ *                     type: string
+ *                     format: date-time
+ *                   updatedAt:
+ *                     type: string
+ *                     format: date-time
+ */
 app.get("/seguimiento_queja", async (req, res) => {
     try {
         // Conexión a la base de datos MongoDB
@@ -39,10 +120,10 @@ app.get("/seguimiento_queja", async (req, res) => {
         // Seleccionar la base de datos
         const database = client.db("bd_gimnasio_8b_idgs_MAO");
         
-        // Obtener la colección de usuarios
+        // Obtener la colección de seguimiento de quejas
         const seguimientoCollection = database.collection("seguimiento_queja");
         
-        // Consultar los usuarios (limitando a 30 por ahora)
+        // Consultar el seguimiento de quejas (limitando a 30 por ahora)
         const seguimiento = await seguimientoCollection.find().limit(30).toArray();
         console.log(seguimiento);
         
