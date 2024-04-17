@@ -35,6 +35,22 @@ app.get("/seguimiento_queja", async (req, res) => {
         // Conexión a la base de datos MongoDB
         const client = new MongoClient("mongodb://localhost:27017", { useNewUrlParser: true, useUnifiedTopology: true });
         await client.connect();
+
+        // Seleccionar la base de datos
+        const database = client.db("bd_gimnasio_8b_idgs_MAO");
+        
+        // Obtener la colección de usuarios
+        const seguimientoCollection = database.collection("seguimiento_queja");
+        
+        // Consultar los usuarios (limitando a 30 por ahora)
+        const seguimiento = await seguimientoCollection.find().limit(30).toArray();
+        console.log(seguimiento);
+        
+        // Enviar la respuesta JSON al cliente
+        res.json(seguimiento);
+        
+        // Cerrar la conexión con la base de datos
+        await client.close();
         
         
     } 
