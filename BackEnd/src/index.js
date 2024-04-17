@@ -32,10 +32,19 @@ console.log("escuchando al puerto "+app.get("port"));
  *               items:
  *                 type: object
  *                 properties:
- *                   id:
+ *                   Persona_ID:
  *                     type: integer
- *                   nombre:
+ *                   Nombre_Usuario:
  *                     type: string
+ *                   Password:
+ *                     type: string
+ *                   Tipo:
+ *                     type: string 
+ *                   Estatus_Conexion:
+ *                      type: string
+ *                   Ultima_Conexion:
+ *                      type: string
+ *                      format: date-time
  *                   
  */
 app.get("/usuarios", async (req, res) => {
@@ -66,7 +75,41 @@ app.get("/usuarios", async (req, res) => {
  *               items:
  *                 type: object
  *                 properties:
- *                   
+ *                   _id:
+ *                     type: string
+ *                   queja_id:
+ *                     type: string
+ *                   fecha:
+ *                     type: string
+ *                     format: date-time
+ *                   usuario:
+ *                     type: object
+ *                     properties:
+ *                       nombre:
+ *                         type: string
+ *                       email:
+ *                         type: string
+ *                         format: email
+ *                   empleado:
+ *                     type: object
+ *                     properties:
+ *                       nombre:
+ *                         type: string
+ *                       email:
+ *                         type: string
+ *                         format: email
+ *                   descripcion:
+ *                     type: string
+ *                   estatus:
+ *                     type: string
+ *                   tipo:
+ *                     type: string
+ *                   createdAt:
+ *                     type: string
+ *                     format: date-time
+ *                   updatedAt:
+ *                     type: string
+ *                     format: date-time
  */
 app.get("/seguimiento_queja", async (req, res) => {
     try {
