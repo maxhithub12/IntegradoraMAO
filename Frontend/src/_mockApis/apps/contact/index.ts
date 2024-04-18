@@ -37,7 +37,7 @@ const contacts: KeyedObject[] = [
         phone: '+234 456 789',
         jdate: '10-09-2014',
         role: 'Sugerencia',
-        rolestatus: 'secondary'
+        rolestatus: 'success'
     },
     {
         id: '#565',
@@ -47,7 +47,7 @@ const contacts: KeyedObject[] = [
         phone: '+345 456 789',
         jdate: '01-10-2013',
         role: 'Sugerencia',
-        rolestatus: 'error'
+        rolestatus: 'success'
     },
     {
         id: '#785',
@@ -57,7 +57,7 @@ const contacts: KeyedObject[] = [
         phone: '+456 456 789',
         jdate: '02-10-2017',
         role: 'Queja',
-        rolestatus: 'success'
+        rolestatus: 'primary'
     },
     {
         id: '#564',
@@ -67,7 +67,7 @@ const contacts: KeyedObject[] = [
         phone: '+567 456 789',
         jdate: '10-9-2015',
         role: 'Queja',
-        rolestatus: 'info'
+        rolestatus: 'primary'
     },
     {
         id: '#980',
@@ -77,7 +77,7 @@ const contacts: KeyedObject[] = [
         phone: '+678 456 789',
         jdate: '10-5-2013',
         role: 'Queja',
-        rolestatus: 'warning'
+        rolestatus: 'primary'
     },
     {
         id: '#521',
@@ -86,8 +86,8 @@ const contacts: KeyedObject[] = [
         usermail: 'hgover@gmail.com',
         phone: '+123 456 789',
         jdate: '05-10-2012',
-        role: 'Manager',
-        rolestatus: 'primary'
+        role: 'Sugerencia',
+        rolestatus: 'success'
     },
     {
         id: '#450',
@@ -97,7 +97,7 @@ const contacts: KeyedObject[] = [
         phone: '+234 456 789',
         jdate: '11-10-2014',
         role: 'Sugerencia',
-        rolestatus: 'secondary'
+        rolestatus: 'success'
     },
     {
         id: '#212',
@@ -107,7 +107,7 @@ const contacts: KeyedObject[] = [
         phone: '+345 456 789',
         jdate: '12-5-2017',
         role: 'Queja',
-        rolestatus: 'error'
+        rolestatus: 'primary'
     },
     {
         id: '#152',
