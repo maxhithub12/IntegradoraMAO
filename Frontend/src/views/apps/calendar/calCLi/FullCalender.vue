@@ -154,9 +154,8 @@ export default defineComponent({
       <v-dialog v-model="updateModalShow" max-width="500px">
         <v-card>
           <v-card-text>
-            <h4 class="text-h4">Update Event</h4>
-            <p class="text-subtitle-1 textSecondary my-4">To Edit/Update Event kindly change the title and choose the event
-              color and press the update button</p>
+            <h4 class="text-h4">Actualizar Evento</h4>
+            <p class="text-subtitle-1 textSecondary my-4">Actualiza el evento de acuerdo a tus necesidades</p>
           </v-card-text>
         </v-card>
       </v-dialog>
@@ -165,8 +164,7 @@ export default defineComponent({
         <v-card>
           <v-card-text>
             <h4 class="text-h4">Agregar sesion</h4>
-            <p class="text-subtitle-1 textSecondary  my-4">To add Event kindly fillup the title and choose the event color
-              and press the add button</p>
+            <p class="text-subtitle-1 textSecondary  my-4">Agregacion de sesion, indica una descripcion de esta.</p>
         </v-card-text>
         </v-card>
       </v-dialog>
