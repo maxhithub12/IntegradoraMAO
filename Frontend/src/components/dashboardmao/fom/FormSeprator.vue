@@ -33,7 +33,7 @@ const lang = ref(['Pendiente', 'En proceso','Resuelto']);
             <v-row class="align-center mb-3">
                     <v-col cols="12" sm="9" offset-sm="3">
                         <v-btn color="primary" flat>Enviar</v-btn>
-                        <v-btn class="bg-lighterror text-error ml-4" flat>Cancel</v-btn>
+                        <v-btn class="bg-lighterror text-error ml-4" flat>Cancelar</v-btn>
                     </v-col>
             </v-row>
         </v-card-text>

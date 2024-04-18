@@ -11,7 +11,7 @@ const lang = ref(['Pendiente', 'En proceso','Resuelto']);
     <v-row>
         <v-col cols="12">
             <v-label class="font-weight-medium mb-2">Usuario</v-label>
-            <v-text-field color="primary" variant="outlined" type="text" placeholder="John Deo" hide-details>
+            <v-text-field color="primary" variant="outlined" type="text" placeholder="Usuario" hide-details>
                 <template v-slot:prepend-inner>
                     
                 </template>
@@ -40,7 +40,7 @@ const lang = ref(['Pendiente', 'En proceso','Resuelto']);
             <v-textarea
                 auto-grow
                 variant="outlined"
-                placeholder="Hi, Do you  have a moment to talk Jeo ?"
+                placeholder="Ingresa tu descripcion"
                 rows="2"
                 color="primary"
                 row-height="25"

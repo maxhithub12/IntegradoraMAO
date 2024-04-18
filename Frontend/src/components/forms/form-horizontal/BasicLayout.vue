@@ -10,11 +10,11 @@ const rating5 = ref(3);
         </v-col>
         <v-col cols="12">
             <v-label class="font-weight-medium mb-2">Servicio</v-label>
-            <VTextField  type="text" placeholder="ACME Inc." hide-details ></VTextField>
+            <VTextField  type="text" placeholder="Especifica que servicio" hide-details ></VTextField>
         </v-col>
         <v-col cols="12">
             <v-label class="font-weight-medium mb-2">Email</v-label>
-            <VTextField  type="email" placeholder="john.deo" suffix="@example.com" hide-details ></VTextField>
+            <VTextField  type="email" placeholder="ejemplo@gmail.com" suffix="@example.com" hide-details ></VTextField>
         </v-col>
         <v-col cols="12">
             <v-label class="font-weight-medium mb-2">Telefono</v-label>
