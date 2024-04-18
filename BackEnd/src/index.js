@@ -51,7 +51,7 @@ console.log("http://localhost:4000/api-docs");
 app.get("/usuarios", async (req, res) => {
     try {
         const connection = await database.getConnection();
-        const result = await connection.query("SELECT * FROM usuarios LIMIT 30");
+        const result = await connection.query("SELECT * FROM usuarios ");
         console.log(result);
         res.json(result); // Envía los resultados como JSON al cliente
     } catch (error) {
