@@ -36,7 +36,7 @@ const headers :any = ref([
     { title: 'Nombre Servicio', align: 'start', key: 'project' },
     { title: 'Estatus', align: 'start', key: 'status' },
     { title: 'Sucursal', align: 'end', key: 'budget' },
-    { title: '', key: 'data-table-expand' },
+    { title: '',  },
 ])
 
 

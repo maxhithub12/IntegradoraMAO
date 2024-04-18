@@ -106,6 +106,7 @@ export default defineComponent({
         select: this.handleDateSelect,
         eventClick: this.handleEventClick,
         eventsSet: this.handleEvents,
+        locale: 'es',
       },
       currentEvents: [],
     }
