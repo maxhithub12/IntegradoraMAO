@@ -83,7 +83,7 @@ DATABASES = {
         'PORT': '3306',
         'USER': 'root',
         'PASSWORD': '1234',
-        'NAME': 'bd_gimnasio_8b_idgs_MAO'
+        'NAME': 'bd_gimnasio_210857'
     }
 }
 

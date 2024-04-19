@@ -10,22 +10,4 @@ class Migration(migrations.Migration):
     dependencies = [
     ]
 
-    operations = [
-        migrations.CreateModel(
-            name='Persona',
-            fields=[
-                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
-                ('Titulo_Cortesia', models.CharField(max_length=20, null=True)),
-                ('Nombre', models.CharField(max_length=80)),
-                ('Primer_Apellido', models.CharField(max_length=80)),
-                ('Segundo_Apellido', models.CharField(max_length=80)),
-                ('Fecha_Nacimiento', models.DateField()),
-                ('Fotografia', models.CharField(max_length=100, null=True)),
-                ('Genero', models.CharField(choices=[('M', 'Masculino'), ('F', 'Femenino'), ('N/B', 'No binario')], max_length=3, null=True)),
-                ('Tipo_Sangre', models.CharField(choices=[('A+', 'A+'), ('A-', 'A-'), ('B+', 'B+'), ('B-', 'B-'), ('AB+', 'AB+'), ('AB-', 'AB-'), ('O+', 'O+'), ('O-', 'O-')], max_length=3)),
-                ('Estatus', models.BooleanField(default=True)),
-                ('Fecha_Registro', models.DateTimeField(auto_now_add=True)),
-                ('Fecha_Actualizacion', models.DateTimeField(null=True)),
-            ],
-        ),
-    ]
+    
