@@ -15,7 +15,8 @@
 | ------------ | ------------ |
 | Proyecto   |  Sitio web GYM BULL´S   |
 | Fecha de preparación  | Marzo 2024  |
-| Profesor  |  MTI. Marco Antonio Ramirez |
+| Profesor Base de datos |  MTI. Marco Antonio Ramirez |
+| Profesor Desarrollo Web | M.A.I.E Héctor Valderrábano González |
 
 &nbsp;
 ### Organigrama del equipo
