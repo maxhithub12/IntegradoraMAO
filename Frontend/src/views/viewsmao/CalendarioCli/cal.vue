@@ -4,7 +4,7 @@ import { ref } from "vue";
 import { useDate } from 'vuetify'
 import BaseBreadcrumb from '@/components/shared/BaseBreadcrumb.vue';
 import UiParentCard from '@/components/shared/UiParentCard.vue';
-import FullCalendar from '@/views/apps/calendar/calCLi/FullCalender.vue';
+import FullCalendar from '@/views/apps/calendar/calCLi/FullCalendar.vue';
 const date = ref(new Date());
 const seldate = ref(new Date('2018-03-02'))
 const adapter = useDate()
