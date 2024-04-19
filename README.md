@@ -17,6 +17,7 @@
 | Fecha de preparación  | Marzo 2024  |
 | Profesor Base de datos |  MTI. Marco Antonio Ramirez |
 | Profesor Desarrollo Web | M.A.I.E Héctor Valderrábano González |
+| Profesor Seguridad en el Desarrollo de Aplicaciones | MTRO. Ricardo Luna Santos |
 
 &nbsp;
 ### Organigrama del equipo
