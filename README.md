@@ -18,6 +18,7 @@
 | Profesor Base de datos |  MTI. Marco Antonio Ramirez |
 | Profesor Desarrollo Web | M.A.I.E Héctor Valderrábano González |
 | Profesor Seguridad en el Desarrollo de Aplicaciones | MTRO. Ricardo Luna Santos |
+| Profesor Planeacion y Organizacion del Trabajo | MTRA. Norma García Romero |
 
 &nbsp;
 ### Organigrama del equipo
