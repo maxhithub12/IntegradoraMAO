@@ -1,0 +1,67 @@
+{
+  "$jsonSchema": {
+    "bsonType": "object",
+    "required": ["queja_id", "fecha", "usuario", "empleado", "descripcion", "estatus", "tipo", "createdAt", "updatedAt"],
+    "properties": {
+      "queja_id": {
+        "bsonType": "string",
+        "description": "ID de la queja",
+        "minLength": 1
+      },
+      "fecha": {
+        "bsonType": "date",
+        "description": "Fecha del seguimiento"
+      },
+      "usuario": {
+        "bsonType": "object",
+        "required": ["nombre", "email"],
+        "properties": {
+          "nombre": {
+            "bsonType": "string",
+            "description": "Nombre del usuario"
+          },
+          "email": {
+            "bsonType": "string",
+            "description": "Correo electrónico del usuario",
+            "pattern": "^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}$"
+          }
+        }
+      },
+      "empleado": {
+        "bsonType": "object",
+        "required": ["nombre", "email"],
+        "properties": {
+          "nombre": {
+            "bsonType": "string",
+            "description": "Nombre del empleado"
+          },
+          "email": {
+            "bsonType": "string",
+            "description": "Correo electrónico del empleado",
+            "pattern": "^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}$"
+          }
+        }
+      },
+      "descripcion": {
+        "bsonType": "string",
+        "description": "Descripción del seguimiento"
+      },
+      "estatus": {
+        "enum": ["En proceso", "Resuelto"],
+        "description": "Estado del seguimiento"
+      },
+      "tipo": {
+        "enum": ["Seguimiento estándar", "Seguimiento especializado"],
+        "description": "Tipo de seguimiento"
+      },
+      "createdAt": {
+        "bsonType": "date",
+        "description": "Fecha de creación del documento"
+      },
+      "updatedAt": {
+        "bsonType": "date",
+        "description": "Fecha de última actualización del documento"
+      }
+    }
+  }
+}

@@ -15,7 +15,14 @@
 | ------------ | ------------ |
 | Proyecto   |  Sitio web GYM BULL´S   |
 | Fecha de preparación  | Marzo 2024  |
-| Profesor  |  MTI. Marco Antonio Ramirez |
+| Profesor Base de datos |  MTI. Marco Antonio Ramirez |
+| Profesor Desarrollo Web | M.A.I.E Héctor Valderrábano González |
+| Profesor Seguridad en el Desarrollo de Aplicaciones | MTRO. Ricardo Luna Santos |
+| Profesor Planeacion y Organizacion del Trabajo | MTRA. Norma García Romero |
+
+&nbsp;
+### Organigrama del equipo
+![organi](https://github.com/maxhithub12/IntegradoraMAO/assets/111249522/9ea64f0a-d9de-4ccd-a1fd-3aa1322369f9)
 
 
 &nbsp;
