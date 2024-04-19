@@ -53,11 +53,18 @@
 ## Proyecto 
 <p align="justify"> Este proyecto se basa en Vue.js y ha sido enriquecido con una variedad de herramientas complementarias como Vue TypeScript, CSS y SCSS. La plantilla utilizada, Flexy Vuetify Dashboard, proviene del sitio WrapPixel, reconocido por ofrecer plantillas de alta calidad. Esta plantilla proporciona un conjunto sólido de herramientas y diseños para la construcción de aplicaciones web dinámicas y atractivas. Puedes encontrar más información sobre la plantilla en la siguiente ruta: </p>
 
+&nbsp;
+## Objetivos General
+<p>
+Llevar a cabo un análisis exhaustivo de las necesidades y expectativas de los usuarios del sitio web de un gimnasio, con especial énfasis en el área de atención al cliente. A partir de este análisis, se pretende diseñar e implementar una serie de módulos y funcionalidades innovadoras que no solo mejoren la experiencia general del usuario al interactuar con la plataforma en línea, sino que también fortalezcan la relación cliente gimnasio. Además, se busca optimizar los procesos de atención al cliente, desde la primera interacción hasta la resolución de consultas y reclamos, con el fin último de elevar los estándares de calidad del servicio ofrecido por el gimnasio.
+</p>
+
 <div align="left">
   <p>
     https://www.wrappixel.com/templates/flexy-vuetify-dashboard/#demos
   </p>
 </div>
+
 
 &nbsp;
 ## ¿Qué es VUE.JS? 
