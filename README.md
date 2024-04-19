@@ -53,6 +53,7 @@
 ## Proyecto 
 <p align="justify"> Este proyecto se basa en Vue.js y ha sido enriquecido con una variedad de herramientas complementarias como Vue TypeScript, CSS y SCSS. La plantilla utilizada, Flexy Vuetify Dashboard, proviene del sitio WrapPixel, reconocido por ofrecer plantillas de alta calidad. Esta plantilla proporciona un conjunto sólido de herramientas y diseños para la construcción de aplicaciones web dinámicas y atractivas. Puedes encontrar más información sobre la plantilla en la siguiente ruta: </p>
 
+<div align="center">
 &nbsp;
 ## Objetivo General
 <p>
@@ -62,7 +63,7 @@ Llevar a cabo un análisis exhaustivo de las necesidades y expectativas de los u
 &nbsp;
 ## Objetivos Especificos
 <p>
-- Investigar las mejores prácticas y tendencias en el diseño y funcionalidad de sitios web dentro de la industria del fitness, enfocándose en la atención al cliente, para obtener información que guíen el desarrollo de los módulos propuestos. 
+- Investigar las mejores prácticas y tendencias en el diseño y funcionalidad de sitios web dentro de la industria del fitness, enfocándose en la atención al cliente, para obtener información que guíen el desarrollo de los módulos propuestos.
 - Diseñar módulos interactivos que permitan a los clientes reservar clases, consultar horarios, recibir notificaciones personalizadas sobre promociones y eventos, y acceder a contenido exclusivo sobre salud y bienestar. 
 - Crear una interfaz intuitiva y accesible para el sitio web del gimnasio, que facilite la navegación y el acceso a la información relevante sobre servicios, horarios, tarifas y promociones, con especial atención a la usabilidad desde dispositivos móviles. 
 - Integrar herramientas de análisis de datos y seguimiento de conversiones para evaluar el rendimiento de campañas de marketing digital, así como el impacto de las estrategias de retención de clientes y promociones específicas en la participación y la lealtad del cliente. 
@@ -75,6 +76,7 @@ Llevar a cabo un análisis exhaustivo de las necesidades y expectativas de los u
 - Establecer protocolos y procedimientos claros para la gestión de la información personal de los clientes, garantizando el cumplimiento de las regulaciones de privacidad y protección de datos en línea, así como la confidencialidad y seguridad de la información.
 </p>
 
+</div>
 
 
 <div align="left">
