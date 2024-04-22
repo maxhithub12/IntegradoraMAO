@@ -132,6 +132,10 @@ MySQL Workbench es una herramienta visual unificada para arquitectos, desarrolla
 
 ### GitHub
 
+&nbsp;
+&nbsp;
+
+![enter image description here](https://beecrowd.io/wp-content/uploads/2022/08/Beecrowd-Agosto-6-02-larger.png)
 
 
 <p align= "justify">
@@ -140,9 +144,96 @@ GitHub es una forja (plataforma de desarrollo colaborativo) para alojar proyecto
 &nbsp;
 &nbsp;
 
+### Visual Studio Code
 
 
-![enter image description here](https://beecrowd.io/wp-content/uploads/2022/08/Beecrowd-Agosto-6-02-larger.png)
+<p align="justify">
+Visual Studio Code (también llamado VS Code) es un editor de código fuente desarrollado por Microsoft para Windows, Linux, macOS y Web. Incluye soporte para la depuración, control integrado de Git, resaltado de sintaxis, finalización inteligente de código, fragmentos y refactorización de código. También es personalizable, por lo que los usuarios pueden cambiar el tema del editor, los atajos de teclado y las preferencias. Es gratuito y de código abierto, aunque la descarga oficial está bajo software privativo e incluye características personalizadas por Microsoft.
+</p>
+
+![enter image description here](https://live.mrf.io/statics/i/ps/www.muylinux.com/wp-content/uploads/2019/07/vscode.jpg?width=1200&enable=upscale)
+
+### [Página Principal de Visual Studio Code](https://code.visualstudio.com/)
+
+&nbsp;
+&nbsp;
+
+### Node.js  
+
+<p align="justify">
+Node.js® es un entorno de ejecución de JavaScript multiplataforma, de código abierto y gratuito que permite a los desarrolladores crear servidores, aplicaciones web, herramientas de línea de comandos y scripts.
+</p>
+
+![Node.js Icon](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png)
+
+### [Página Principal de Node](https://nodejs.org/en)
+
+&nbsp;
+&nbsp; 
+
+### Navicat Premium
+
+<p>
+Navicat Premium es una herramienta de desarrollo de bases de datos que le permite conectarse simultáneamente a bases de datos MySQL, Redis, MariaDB, MongoDB, SQL Server, Oracle, PostgreSQL y SQLite desde una sola aplicación. Compatible con bases de datos cloud como Amazon RDS, Amazon Aurora, Amazon Redshift, Amazon ElastiCache, Microsoft Azure, Oracle Cloud, Google Cloud, MongoDB Atlas y Redis Enterprise Cloud. Podrá crear, administrar y mantener sus bases de datos de forma rápida y fácil.
+</p>
+
+![Navicat Premium Icon](https://www.navicat.com/images/02.Product_00_AllProducts_Premium16.svg)
+
+[Página Principal de Navicat](https://www.navicat.com/es/)
+
+&nbsp;
+&nbsp; 
+
+### Python  
+
+<p align="justify">
+Python es un lenguaje de programación orientado a objetos claro y potente, comparable a Perl, Ruby, Scheme o Java.
+
+Python es un lenguaje de alto nivel de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código. Se trata de un lenguaje de programación multiparadigma, ya que soporta parcialmente la orientación a objetos, programación imperativa y, en menor medida, programación funcional. Es un lenguaje interpretado, dinámico y multiplataforma.
+</p>
+
+![Python Logo y título](https://www.icog.es/cursos/wp-content/uploads/2020/09/phyton.png)
+
+[Portal de Python](https://www.python.org/)
+
+&nbsp;
+&nbsp; 
+
+### Postman  
+
+
+
+
+<p>
+Postman es una plataforma API para crear y utilizar API. Postman simplifica cada paso del ciclo de vida de la API y agiliza la colaboración para que puedas crear mejores API y más rápido.
+Postman es una aplicación que permite probar API web. El software fue creado en 2012 por Abhinav Asthana, Ankit Sobti y Abhijit Kane en Bangalore, India, para resolver el problema de compartir pruebas API.
+
+
+</p>
+
+![enter image description here](https://mms.businesswire.com/media/20231211943255/en/761650/23/postman-logo-vert-2018.jpg)
+
+[Portal de Postman API Plataforma](https://www.postman.com/)
+
+&nbsp;
+&nbsp; 
+
+### Firefox Development  
+
+<p>
+Firefox Developer Edition es tu rápido navegador de siempre, ahora con las mejores herramientas de desarrollo y las últimas funciones como soporte para CSS
+</p>
+
+![enter image description here](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Firefox_Developer_Edition_logo,_2017.svg/512px-Firefox_Developer_Edition_logo,_2017.svg.png)
+
+[Página de Descarga de Firefox Developer Edition](https://www.mozilla.org/es-MX/firefox/developer/)
+
+&nbsp;
+&nbsp; 
+
+
+
+
 
 
 &nbsp;
