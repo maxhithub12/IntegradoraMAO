@@ -1,4 +1,5 @@
-<div align="center">
+
+  <div align="center">
   
 # Universidad Tecnológica de Xicotepec de Juárez
 
@@ -7,6 +8,7 @@
 ## "MOA"
 ## 8B
 ### Proyecto Integrador
+
 
 
 &nbsp;
@@ -109,10 +111,45 @@ npm i
 ```sh
 npm run dev
 ```
+&nbsp;
+&nbsp;
+-------------------------------------------------------------------------------------------
+## Herramientas de Desarrollo
+
+### MySQL Workbench
+
+<p align="justify">
+MySQL Workbench es una herramienta visual unificada para arquitectos, desarrolladores y administradores de bases de datos. MySQL Workbench proporciona modelado de datos, desarrollo de SQL y herramientas de administración integrales para la configuración del servidor, administración de usuarios, copias de seguridad y mucho más. MySQL Workbench está disponible en Windows, Linux y Mac OS X.
+<p>
+&nbsp;
+  
+![Workbench-home](https://cdn.discordapp.com/attachments/1091835307252514907/1231664942118342777/MySQL_Workbench_Mainscreen_Windows.png?ex=6626a4dd&is=6625535d&hm=5281ba1834664ddabb5d8ec186f0ada5dd253bcc973fe05c3fd7276c0ee4c8f1&)
+
 
 &nbsp;
 &nbsp;
 
+
+### GitHub
+
+
+
+<p align= "justify">
+GitHub es una forja (plataforma de desarrollo colaborativo) para alojar proyectos utilizando el sistema de control de versiones Git. Se utiliza principalmente para la creación de código fuente de programas de ordenador. El software que opera GitHub fue escrito en Ruby on Rails. Desde enero de 2010, GitHub opera bajo el nombre de GitHub, Inc. Anteriormente era conocida como Logical Awesome LLC. El código de los proyectos alojados en GitHub se almacena generalmente de forma pública.
+</p>
+&nbsp;
+&nbsp;
+
+
+
+![enter image description here](https://beecrowd.io/wp-content/uploads/2022/08/Beecrowd-Agosto-6-02-larger.png)
+
+
+&nbsp;
+&nbsp;
+
+
+----------------------------------------------------------------------------------------
 |  Maquetado del sitio | 
 | :------------: |
 |  <img src="https://github.com/maxhithub12/IntegradoraMAO/blob/main/Frontend/src/assets/images/muckups/muck.jpeg" width="1500"/> 
