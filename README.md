@@ -1,4 +1,5 @@
 
+
   <div align="center">
   
 # Universidad Tecnológica de Xicotepec de Juárez
@@ -8,7 +9,13 @@
 ## "MOA"
 ## 8B
 ### Proyecto Integrador
-
+![Static Badge()](https://img.shields.io/badge/GitHub-gray?style=flat&logo=Github&logoColor=black)
+![Static Badge](https://img.shields.io/badge/Node.js-gray?style=flat&logo=Node.js&logoColor=Green)
+![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat&logo=Visual%20Studio%20Code)
+![Static Badge](https://img.shields.io/badge/Python-black?style=flat&logo=Python)
+![Static Badge](https://img.shields.io/badge/Postman%20-white?style=flat&logo=Postman)
+![Static Badge](https://img.shields.io/badge/Firefox%20Developer%20Edition-Blue?style=flat&logo=Firefox&color=blue)
+![Static Badge](https://img.shields.io/badge/JavaScript-black?style=flat&logo=JavaScript)
 
 
 &nbsp;
@@ -113,7 +120,7 @@ npm run dev
 ```
 &nbsp;
 &nbsp;
--------------------------------------------------------------------------------------------
+
 ## Herramientas de Desarrollo
 
 ### MySQL Workbench
@@ -135,12 +142,14 @@ MySQL Workbench es una herramienta visual unificada para arquitectos, desarrolla
 &nbsp;
 &nbsp;
 
-![enter image description here](https://beecrowd.io/wp-content/uploads/2022/08/Beecrowd-Agosto-6-02-larger.png)
-
-
 <p align= "justify">
 GitHub es una forja (plataforma de desarrollo colaborativo) para alojar proyectos utilizando el sistema de control de versiones Git. Se utiliza principalmente para la creación de código fuente de programas de ordenador. El software que opera GitHub fue escrito en Ruby on Rails. Desde enero de 2010, GitHub opera bajo el nombre de GitHub, Inc. Anteriormente era conocida como Logical Awesome LLC. El código de los proyectos alojados en GitHub se almacena generalmente de forma pública.
 </p>
+
+![enter image description here](https://beecrowd.io/wp-content/uploads/2022/08/Beecrowd-Agosto-6-02-larger.png)
+### [Pagina Principal de GitHub](https://github.com/)
+
+
 &nbsp;
 &nbsp;
 
@@ -184,20 +193,7 @@ Navicat Premium es una herramienta de desarrollo de bases de datos que le permit
 &nbsp;
 &nbsp; 
 
-### Python  
 
-<p align="justify">
-Python es un lenguaje de programación orientado a objetos claro y potente, comparable a Perl, Ruby, Scheme o Java.
-
-Python es un lenguaje de alto nivel de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código. Se trata de un lenguaje de programación multiparadigma, ya que soporta parcialmente la orientación a objetos, programación imperativa y, en menor medida, programación funcional. Es un lenguaje interpretado, dinámico y multiplataforma.
-</p>
-
-![Python Logo y título](https://www.icog.es/cursos/wp-content/uploads/2020/09/phyton.png)
-
-[Portal de Python](https://www.python.org/)
-
-&nbsp;
-&nbsp; 
 
 ### Postman  
 
@@ -232,8 +228,45 @@ Firefox Developer Edition es tu rápido navegador de siempre, ahora con las mejo
 &nbsp; 
 
 
+## Lenguajes de programación
 
+### Python  
 
+<p align="justify">
+Python es un lenguaje de programación orientado a objetos claro y potente, comparable a Perl, Ruby, Scheme o Java.
+
+Python es un lenguaje de alto nivel de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código. Se trata de un lenguaje de programación multiparadigma, ya que soporta parcialmente la orientación a objetos, programación imperativa y, en menor medida, programación funcional. Es un lenguaje interpretado, dinámico y multiplataforma.
+</p>
+
+![Python Logo y título](https://www.icog.es/cursos/wp-content/uploads/2020/09/phyton.png)
+
+[Portal de Python](https://www.python.org/)
+
+&nbsp;
+&nbsp; 
+
+### JavaScript 
+
+<p>
+
+JavaScript (JS) es un lenguaje de programación ligero, interpretado, o compilado justo-a-tiempo (just-in-time) con funciones de primera clase. Si bien es más conocido como un lenguaje de scripting (secuencias de comandos) para páginas web, y es usado en muchos entornos fuera del navegador, tal como Node.js, Apache CouchDB y Adobe Acrobat JavaScript es un lenguaje de programación basada en prototipos, multiparadigma, de un solo hilo, dinámico, con soporte para programación orientada a objetos, imperativa y declarativa (por ejemplo programación funcional).
+</p>
+
+![Js Icon](https://blog.interfell.com/hubfs/JavaScript%20un%20lenguaje%20de%20programaci%C3%B3n.jpg)
+
+&nbsp;
+&nbsp;
+
+### TypeScript
+
+<p>
+
+TypeScript es un lenguaje de programación libre y de código abierto desarrollado y mantenido por Microsoft. Es un superconjunto de JavaScript, que esencialmente añade tipos estáticos y objetos basados en clases. Anders Hejlsberg, diseñador de C# y creador de Delphi y Turbo Pascal, ha trabajado en el desarrollo de TypeScript.​ TypeScript es usado para desarrollar aplicaciones JavaScript que se ejecutarán en el lado del cliente o del servidor, o extensiones para programas (Node.js y Deno).
+</p>
+
+![enter image description here](https://www.g-talent.net/cdn/shop/articles/que-es-typescript-1658755532025_47a3ff42-50f3-4968-a9ed-6cca8e24185a.jpg?v=1675279891)
+
+[Portal de TypeScript](https://www.typescriptlang.org/)
 
 
 &nbsp;
