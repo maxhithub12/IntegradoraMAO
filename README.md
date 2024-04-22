@@ -131,7 +131,12 @@ MySQL Workbench es una herramienta visual unificada para arquitectos, desarrolla
 &nbsp;
   
 ![Workbench-home](https://cdn.discordapp.com/attachments/1091835307252514907/1231664942118342777/MySQL_Workbench_Mainscreen_Windows.png?ex=6626a4dd&is=6625535d&hm=5281ba1834664ddabb5d8ec186f0ada5dd253bcc973fe05c3fd7276c0ee4c8f1&)
-
+### [Página de MySQL Workbench](https://www.mysql.com/products/workbench/)
+&nbsp;
+#### Uso dado:
+<p align="justify">
+Se utilizó para diseñar y gestionar la base de datos relacional MySQL, permitiendo la creación de consultas y mantenimiento de la base de datos de manera visual.  
+</p>
 
 &nbsp;
 &nbsp;
@@ -149,6 +154,12 @@ GitHub es una forja (plataforma de desarrollo colaborativo) para alojar proyecto
 ![enter image description here](https://beecrowd.io/wp-content/uploads/2022/08/Beecrowd-Agosto-6-02-larger.png)
 ### [Pagina Principal de GitHub](https://github.com/)
 
+&nbsp;
+#### Uso dado
+<p align= "justify">
+  Fue utilizado como plataforma de control de versiones para colaborar en el desarrollo del proyecto, permitiendo a los miembros del equipo trabajar de forma conjunta, gestionar cambios y controlar versiones del código.
+</p>
+
 
 &nbsp;
 &nbsp;
@@ -163,6 +174,12 @@ Visual Studio Code (también llamado VS Code) es un editor de código fuente des
 ![enter image description here](https://live.mrf.io/statics/i/ps/www.muylinux.com/wp-content/uploads/2019/07/vscode.jpg?width=1200&enable=upscale)
 
 ### [Página Principal de Visual Studio Code](https://code.visualstudio.com/)
+&nbsp;
+#### Uso dado
+<p align= "justify">
+  Este editor de código fue utilizado como entorno de desarrollo integrado (IDE) para escribir y depurar el código del proyecto, con soporte para una variedad de lenguajes de programación y extensiones útiles.
+</p>
+
 
 &nbsp;
 &nbsp;
@@ -176,6 +193,11 @@ Node.js® es un entorno de ejecución de JavaScript multiplataforma, de código 
 ![Node.js Icon](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png)
 
 ### [Página Principal de Node](https://nodejs.org/en)
+&nbsp;
+#### Uso dado
+<p align= "justify">
+Utilizado como entorno de ejecución para el servidor del proyecto, permitiendo la creación de aplicaciones web escalables y de alto rendimiento utilizando JavaScript en el lado del servidor.  
+</p>
 
 &nbsp;
 &nbsp; 
@@ -191,6 +213,12 @@ Navicat Premium es una herramienta de desarrollo de bases de datos que le permit
 [Página Principal de Navicat](https://www.navicat.com/es/)
 
 &nbsp;
+#### Uso dado
+<p align= "justify">
+Se utilizó como una herramienta de administración de bases de datos que proporciona una interfaz gráfica intuitiva para conectar, administrar y manipular bases de datos SQL, incluyendo MySQL, PostgreSQL, SQLite y otras. Navicat Premium facilita tareas como el diseño de esquemas, la ejecución de consultas SQL, la importación y exportación de datos, y la sincronización de bases de datos entre diferentes servidores. Navicat Premium se utilizó para interactuar con la base de datos MySQL, permitiendo a los desarrolladores visualizar y manipular datos de manera eficiente durante el proceso de desarrollo y mantenimiento del proyecto.  
+</p>
+
+&nbsp;
 &nbsp; 
 
 
@@ -203,9 +231,14 @@ Navicat Premium es una herramienta de desarrollo de bases de datos que le permit
 <p>
 Postman es una plataforma API para crear y utilizar API. Postman simplifica cada paso del ciclo de vida de la API y agiliza la colaboración para que puedas crear mejores API y más rápido.
 Postman es una aplicación que permite probar API web. El software fue creado en 2012 por Abhinav Asthana, Ankit Sobti y Abhijit Kane en Bangalore, India, para resolver el problema de compartir pruebas API.
-
-
 </p>
+
+&nbsp;
+#### Uso dado
+<p align= "justify">
+Se empleó para probar y documentar la API del proyecto, permitiendo realizar solicitudes HTTP y verificar la funcionalidad de los endpoints de forma sencilla y eficiente.
+</p>
+
 
 ![enter image description here](https://mms.businesswire.com/media/20231211943255/en/761650/23/postman-logo-vert-2018.jpg)
 
@@ -223,6 +256,11 @@ Firefox Developer Edition es tu rápido navegador de siempre, ahora con las mejo
 ![enter image description here](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Firefox_Developer_Edition_logo,_2017.svg/512px-Firefox_Developer_Edition_logo,_2017.svg.png)
 
 [Página de Descarga de Firefox Developer Edition](https://www.mozilla.org/es-MX/firefox/developer/)
+&nbsp;
+#### Uso dado
+<p align= "justify">
+  Firefox Developer Edition se utilizó para inspeccionar y depurar el frontend del proyecto, probar la compatibilidad del sitio web en diferentes dispositivos y navegadores, y realizar pruebas de rendimiento para optimizar la velocidad y la eficiencia del sitio.
+</p>
 
 &nbsp;
 &nbsp; 
