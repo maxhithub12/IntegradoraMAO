@@ -16,6 +16,7 @@
 ![Static Badge](https://img.shields.io/badge/Postman%20-white?style=flat&logo=Postman)
 ![Static Badge](https://img.shields.io/badge/Firefox%20Developer%20Edition-Blue?style=flat&logo=Firefox&color=blue)
 ![Static Badge](https://img.shields.io/badge/JavaScript-black?style=flat&logo=JavaScript)
+![Static Badge](https://img.shields.io/badge/Django-green?style=flat&logo=Django)
 
 
 &nbsp;
@@ -325,10 +326,126 @@ Fue utilizado para desarrollar componentes críticos del backend, como la lógic
 &nbsp;
 &nbsp;
 
+## Bibliotecas Utilizadas
+
+### pipenv
+
+<p align= "justify">
+  Pipenv es una herramienta que apunta a traer todo lo mejor del mundo de empaquetado (bundler, composer, npm, cargo, yarn, etc.).Automáticamente crea y maneja un entorno virtual para tus proyectos, también como agregar/remover paquetes desde tu Pipfile como instalar/desisntalar paquetes. También genera el más importante Pipfile.lock, que es usado para producir determinado build.
+</p>
+
+![enter image description here](https://www.adictosaltrabajo.com/wp-content/uploads/2018/10/pipenv.jpg)
+[Portal de pipenv](https://pipenv-es.readthedocs.io/es/latest/)
+
+#### Uso dado
+<p align= "justify">
+Como un framework web de Python, proporcionó una serie de bibliotecas y herramientas para facilitar el desarrollo rápido y seguro del backend del proyecto, incluyendo la gestión de URLs, la autenticación de usuarios y la interacción con la base de datos.
+</p>
+
 &nbsp;
 &nbsp;
 
+### Django
 
+<p align= "justify">
+Django es un marco web Python de alto nivel que fomenta un desarrollo rápido y un diseño limpio y pragmático. Creado por desarrolladores experimentados, se encarga de gran parte de las molestias del desarrollo web, para que puedas concentrarte en escribir tu aplicación sin necesidad de reinventar la rueda. Es gratuito y de código abierto.
+</p>
+
+![Django implentation](https://files.realpython.com/media/Get-Started-With-Django_Watermarked.15a1e05597bc.jpg)
+[Portal de Django](https://www.djangoproject.com/)
+
+<p>
+Como un framework web de Python, proporcionó una serie de bibliotecas y herramientas para facilitar el desarrollo rápido y seguro del backend del proyecto, incluyendo la gestión de URLs, la autenticación de usuarios y la interacción con la base de datos.
+<p>
+  
+&nbsp;
+&nbsp;
+
+### Core API
+
+<p align= "justify">
+Core API es un modelo de objetos de documento independiente del formato para representar API web.
+
+Se puede utilizar para representar respuestas de esquema o hipermedia y le permite interactuar con una API en la capa de una interfaz de aplicación, en lugar de una interfaz de red.
+
+Actualmente, Core API tiene implementaciones disponibles para Core JSON, Open API/Swagger, HAL y JSON Hyper-Schema.
+
+Existe una herramienta de línea de comandos que puede utilizar para interactuar con las API que exponen cualquiera de estos formatos, así como una biblioteca cliente de Python.
+
+Usar un cliente Core API es una forma más sólida y significativa de interactuar con su API que construir solicitudes HTTP y decodificar respuestas. La biblioteca del cliente dinámico siempre está actualizada con la API, y el código del cliente se centra únicamente en la interfaz que se proporciona, en lugar de ocuparse de los detalles y codificaciones de la red.
+</p>
+
+![enter image description here](https://opengraph.githubassets.com/aa088d4396b4ec8a62963c5e364e6a60a01a365d2b865e0f0a859d63194db1fe/core-api/python-client)
+
+[Portal de Core API](https://www.coreapi.org/)
+
+
+#### Uso dado
+<p align= "justify">
+Fue utilizado para diseñar, construir y documentar APIs web interactivas, permitiendo a los desarrolladores generar documentación dinámica y realizar pruebas directamente desde la interfaz de usuario.
+</p>
+
+
+
+&nbsp;
+&nbsp;
+
+### CORS
+
+<p align="justify">
+  CORS es un paquete node.js para proporcionar un middleware Connect/Express que se puede utilizar para habilitar CORS con varias opciones.
+</p>
+
+![enter image description here](https://media.dev.to/cdn-cgi/image/width=1600,height=900,fit=cover,gravity=auto,format=auto/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0igpbvn0eic2twb4p13z.png)
+
+[Página de NPM de CORS](https://www.npmjs.com/package/cors)
+
+#### Uso dado
+<p Align="justify">
+Esta biblioteca se utilizó para habilitar el intercambio de recursos entre distintos dominios en el backend del proyecto, permitiendo a los navegadores web ejecutar solicitudes AJAX de forma segura.
+<p>
+
+&nbsp;
+&nbsp;
+
+### **Express**
+
+<p align="justify">
+  Express es un marco de aplicación web Node.js mínimo y flexible que proporciona un conjunto sólido de funciones para aplicaciones web y móviles.
+</p>
+
+![enter image description here](https://www.sohamkamani.com/nodejs/expressjs-architecture/express-routing-logo.png)
+
+[Página Principal](https://expressjs.com/)
+[Página de NPM de instalación](https://www.npmjs.com/package/express)
+
+#### Uso dado
+<p Align="justify">
+Como un framework web de Node.js, se utilizó para simplificar la creación de servidores HTTP, definir rutas y manejar solicitudes, lo que permitió construir el backend del proyecto de manera eficiente.
+<p>
+
+&nbsp;
+&nbsp;
+
+### Nodemon
+
+<p align="justify">
+nodemon es una herramienta que ayuda a desarrollar aplicaciones basadas en Node.js reiniciando automáticamente la aplicación del nodo cuando se detectan cambios de archivos en el directorio. nodemon no requiere ningún cambio adicional en su código o método de desarrollo. nodemon es un contenedor de reemplazo para node.
+</p>
+
+![enter image description here](https://user-images.githubusercontent.com/13700/35731649-652807e8-080e-11e8-88fd-1b2f6d553b2d.png)
+
+[Portal de Nodemon](https://nodemon.io/)
+[Página de NPM de Nodemon](https://www.npmjs.com/package/nodemon)
+
+#### Uso dado
+<p Align="justify">
+Fue utilizado como una herramienta de desarrollo para detectar cambios en los archivos del proyecto y reiniciar automáticamente el servidor Node.js, lo que agilizó el proceso de desarrollo y depuración.
+<p>
+
+
+&nbsp;
+&nbsp;
 
 
 ----------------------------------------------------------------------------------------
