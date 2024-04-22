@@ -233,16 +233,17 @@ Postman es una plataforma API para crear y utilizar API. Postman simplifica cada
 Postman es una aplicación que permite probar API web. El software fue creado en 2012 por Abhinav Asthana, Ankit Sobti y Abhijit Kane en Bangalore, India, para resolver el problema de compartir pruebas API.
 </p>
 
-&nbsp;
-#### Uso dado
-<p align= "justify">
-Se empleó para probar y documentar la API del proyecto, permitiendo realizar solicitudes HTTP y verificar la funcionalidad de los endpoints de forma sencilla y eficiente.
-</p>
 
 
 ![enter image description here](https://mms.businesswire.com/media/20231211943255/en/761650/23/postman-logo-vert-2018.jpg)
 
 [Portal de Postman API Plataforma](https://www.postman.com/)
+
+&nbsp;
+#### Uso dado
+<p align= "justify">
+Se empleó para probar y documentar la API del proyecto, permitiendo realizar solicitudes HTTP y verificar la funcionalidad de los endpoints de forma sencilla y eficiente.
+</p>
 
 &nbsp;
 &nbsp; 
@@ -279,6 +280,12 @@ Python es un lenguaje de alto nivel de programación interpretado cuya filosofí
 ![Python Logo y título](https://www.icog.es/cursos/wp-content/uploads/2020/09/phyton.png)
 
 [Portal de Python](https://www.python.org/)
+&nbsp;
+
+#### Uso dado
+<p align= "justify">
+
+</p>
 
 &nbsp;
 &nbsp; 
@@ -291,6 +298,10 @@ JavaScript (JS) es un lenguaje de programación ligero, interpretado, o compilad
 </p>
 
 ![Js Icon](https://blog.interfell.com/hubfs/JavaScript%20un%20lenguaje%20de%20programaci%C3%B3n.jpg)
+#### Uso dado
+<p align= "justify">
+Se empleó para mejorar la calidad y la robustez del código JavaScript, añadiendo tipado estático y otras características propias de los lenguajes de programación orientados a objetos.
+</p>
 
 &nbsp;
 &nbsp;
@@ -305,10 +316,19 @@ TypeScript es un lenguaje de programación libre y de código abierto desarrolla
 ![enter image description here](https://www.g-talent.net/cdn/shop/articles/que-es-typescript-1658755532025_47a3ff42-50f3-4968-a9ed-6cca8e24185a.jpg?v=1675279891)
 
 [Portal de TypeScript](https://www.typescriptlang.org/)
+#### Uso dado
+<p align= "justify">
+Fue utilizado para desarrollar componentes críticos del backend, como la lógica de negocio, el manejo de autenticación, así como para la creación de scripts y tareas de automatización.
+</p>
 
 
 &nbsp;
 &nbsp;
+
+&nbsp;
+&nbsp;
+
+
 
 
 ----------------------------------------------------------------------------------------
